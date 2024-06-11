@@ -1,7 +1,11 @@
 ## Oi, meu nome é Pascoal##
+
+Sou um estudante do programa Alura
+Estou me desenvolvendo em Javascript
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
 ![](https://media1.tenor.com/m/U28V2bPGlgUAAAAd/gato-sorrindo.gif)
 
-Sou um estudante do programa Alura 😁
 <!--
 **Lopespascoal34/Lopespascoal34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
