@@ -1,8 +1,8 @@
 ## Oi, meu nome é Pascoal##
 
-Sou um estudante do programa Alura
-Estou me desenvolvendo em Javascript
-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Sou um estudante do programa Alura
+- Estou me desenvolvendo em Javascript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ![](https://media1.tenor.com/m/U28V2bPGlgUAAAAd/gato-sorrindo.gif)
 
