@@ -1,7 +1,6 @@
 ## Oi, meu nome é Pascoal##
-Sou um estudante do programa Alura
 ![](https://media1.tenor.com/m/U28V2bPGlgUAAAAd/gato-sorrindo.gif)
-
+Sou um estudante do programa Alura
 <!--
 **Lopespascoal34/Lopespascoal34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
