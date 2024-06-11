@@ -1,4 +1,5 @@
 ## Oi, meu nome é Pascoal##
+Sou um estudante do programa Alura
 ![](https://media1.tenor.com/m/U28V2bPGlgUAAAAd/gato-sorrindo.gif)
 
 <!--
