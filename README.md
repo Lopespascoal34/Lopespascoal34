@@ -1,6 +1,6 @@
-## Oi, meu nome é Pascoal##
+## Oi, meu nome é Pascoal## 
 
-- Sou um estudante do programa Alura;
+- Sou um estudante do programa Alura; 
 - Estou me desenvolvendo em Javascript;
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
